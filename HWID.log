@@ -1,0 +1,30 @@
+System check:
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+BuildLabEx: 16299.15
+Architecture: x64
+PartialKey: 2YT43
+Edition: Enterprise
+Status Notification
+
+Starting activation at 26 7月 2020 11:06:02...
+
+Installing key XGVPP-NMH47-7TTHJ-W3FW7-8HV2C...
+成功地安装了产品密钥 XGVPP-NMH47-7TTHJ-W3FW7-8HV2C。
+
+Adding registry entries...
+Running GatherOsState...
+Removing registry entries...
+
+Applying GenuineTicket.xml...
+Done.
+Converted license Microsoft.Windows.4.X19-99683_8wekyb3d8bbwe and stored at (null).
+Successfully converted 1 licenses from genuine authorization tickets on disk.
+Done.
+
+Activating...
+正在激活 Windows(R), Enterprise edition (8b351c9c-f398-4515-9900-09df49427262) ...
+错误: 0x8024402C 在运行 Microsoft Windows 非核心版本的计算机上，运行“slui.exe 0x2a 0x8024402C”以显示错误文本。
+
+Failed to activate Enterprise. License status: Notification
+
+
